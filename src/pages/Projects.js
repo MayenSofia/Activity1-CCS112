@@ -4,9 +4,9 @@ import ProjectCard from '../components/ProjectCard';
 function Projects() {
   const projects = [
     {
-      title: "Project and Task Management System",
+      title: "Case Study Sprint 2: Project and Task Management System",
       description: "A comprehensive project management system with task tracking, assignment, and status management capabilities.",
-      technologies: ["React", "Bootstrap", "Node.js", "Express", "MongoDB"],
+      technologies: ["React", "Bootstrap", "CSS", "Laravel"],
       deliverables: [
         "Working project and task management API",
         "Basic task workflow",
@@ -16,9 +16,9 @@ function Projects() {
       ]
     },
     {
-      title: "Resource and Budget Management System",
+      title: "Case Study Sprint 3: Resource and Budget Management System",
       description: "A system for tracking resources, budgets, and progress in project management.",
-      technologies: ["React", "CSS", "PHP", "MySQL", "Chart.js"],
+      technologies: ["React", "Bootstrap", "CSS", "Laravel"],
       deliverables: [
         "Resource assignment working",
         "Budget tracking functional",
